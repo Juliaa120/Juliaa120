@@ -1,16 +1,15 @@
-## Hi there 👋
+## boas vindas ao meu perfil 🖤
 
-<!--
-**Juliaa120/Juliaa120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é julia
 
-Here are some ideas to get you started:
+- Estou estudando tecnologia
+- Gosto de fazer compras
+- Gosto de fofocar
+- Amo sair todos os dias
+- Amo sair com os meninos
+- Sou maria chuteira
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## entre em contato pelo numero: (17)996619715
+  
+
+
